@@ -1,0 +1,3 @@
+[submodule "eBOSC"]
+	path = eBOSC
+	url = https://github.com/jkosciessa/eBOSC
